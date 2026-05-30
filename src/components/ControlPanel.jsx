@@ -36,4 +36,5 @@ function ControlPanel({ iniciarSimulacion, detenerSimulacion, estaCorriendo, vel
     </div>
   );
 }
+
 export default ControlPanel;
